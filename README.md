@@ -46,7 +46,7 @@ Yoga-Planner-Bot/
 
 1. **Clone the repository** (or download it):
    ```bash
-   git clone https://github.com/your-username/Yoga-Planner-Bot.git
+   git clone https://github.com/akash301191/Yoga-Planner-Bot.git
    cd Yoga-Planner-Bot
    ```
 
